@@ -30,8 +30,7 @@ p><img align="center" src="https://graph.org/file/f33b107398ea5a46aa27c-6f8d2fd5
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
 
-p>img(https://gpvc.arturio.dev/Rajpomane)
-<p align="center"><a href="https://github.com/Rajpomane"><img src="https://github-readme-stats.vercel.app/api?username=Rajpomane&show_icons=true&theme=radical"></a></p>
+p>img align="center"><a href="https://github.com/Rajpomane"><img src="https://github-readme-stats.vercel.app/api?username=Rajpomane&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/attitudeking1"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=attitudeking1&theme=radical&layout=compact"></a></p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=BAD+HACKER+HACK+YOUR+MIND)](https://git.io/typing-svg)
