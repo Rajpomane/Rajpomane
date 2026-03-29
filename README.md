@@ -24,7 +24,6 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MrProgrammer72&show_icons=true&locale=en&layout=compact" alt="MrProgrammer72" /></p>
  
 p><img align="center" src="https://graph.org/file/f33b107398ea5a46aa27c-6f8d2fd59b6269ac8d.jpg"></p>
 
